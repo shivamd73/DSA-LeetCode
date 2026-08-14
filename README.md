@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shivamd73/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/shivamd73/DSA-LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shivamd73/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/shivamd73/DSA-LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->

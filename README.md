@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shivamd73/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0075-sort-colors](https://github.com/shivamd73/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamd73/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/shivamd73/DSA-LeetCode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/shivamd73/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shivamd73/DSA-LeetCode/tree/main/0001-two-sum/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamd73/DSA-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->

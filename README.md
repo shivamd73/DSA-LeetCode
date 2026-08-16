@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shivamd73/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/shivamd73/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shivamd73/DSA-LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0189-rotate-array](https://github.com/shivamd73/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/shivamd73/DSA-LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -28,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/shivamd73/DSA-LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/shivamd73/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->

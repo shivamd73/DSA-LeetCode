@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int profit=0,l=0,h=0;
+        int profit=0,l=0;
         for(int i=0;i<prices.size();i++)
         {
             if(prices[i]<prices[l])
@@ -10,9 +10,8 @@ public:
             }
             if(prices[i]>prices[l])
             {
-                h=i;
-                if(h>l && prices[h]-prices[l]>profit)
-                    profit=prices[h]-prices[l];
+                if(i>l && prices[i]-prices[l]>profit)
+                    profit=prices[i]-prices[l];
             }
         }
         return profit;

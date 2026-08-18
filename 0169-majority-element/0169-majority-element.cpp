@@ -10,11 +10,11 @@ public:
         // }
         // return max;
         unordered_map<int,int> fr;
-        for(int i=0;i<nums.size();i++)
+        for(int i:nums)
         {
-            fr[nums[i]]++;
-            if(fr[nums[i]]>nums.size()/2)
-                return nums[i];
+            fr[i]++;
+            if(fr[i]>nums.size()/2)
+                return i;
         }
         return -1;
     }
